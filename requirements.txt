@@ -1,0 +1,25 @@
+# --- núcleo (versões testadas: LangChain 1.x) ---
+langchain-core>=1.0
+langchain-text-splitters>=1.0
+langchain-chroma>=1.0
+pandas>=2.0
+pypdf>=4.0
+python-dotenv>=1.0
+requests>=2.31
+
+# --- embeddings locais e gratuitos (config padrão: hf) ---
+langchain-huggingface
+sentence-transformers
+
+# --- LLM: instale SÓ o do provedor que você vai usar ---
+langchain-openai          # LLM_PROVIDER=openai  (e embeddings openai)
+# langchain-anthropic     # LLM_PROVIDER=anthropic
+# langchain-google-genai  # LLM_PROVIDER=google
+# langchain-ollama        # LLM_PROVIDER=ollama (modelo local, sem chave de API)
+
+# --- interface web ---
+streamlit>=1.35
+
+# --- testes ---
+pytest
+reportlab

@@ -1,0 +1,26 @@
+id,tipo,pergunta,exercicio,palavras_chave,resposta_referencia
+Q01,respondivel,Quem é obrigado a declarar o Imposto de Renda neste ano?,2026,rendimentos tributáveis;obrigad,
+Q02,respondivel,Posso incluir como dependente alguém que tem renda própria?,2026,dependente,
+Q03,respondivel,O que é o desconto simplificado e quem pode optar por ele?,2026,desconto simplificado,
+Q04,respondivel,Posso deduzir a pensão alimentícia que pago ao meu filho?,2026,pensão alimentícia,
+Q05,respondivel,As despesas com psicólogo podem ser deduzidas?,2026,psicólog|despesas médicas,
+Q06,respondivel,Existe um limite para deduzir gastos com educação?,2026,instrução,
+Q07,respondivel,Como devo declarar criptomoedas?,2026,criptoativo|moeda virtual|criptomoeda,
+Q08,respondivel,Preciso pagar imposto sobre o lucro da venda de um imóvel?,2026,ganho de capital;imóvel|imóveis,
+Q09,respondivel,Vendi um imóvel e comprei outro. Tenho direito à isenção?,2026,180,
+Q10,respondivel,Como retifico uma declaração que enviei com erro?,2026,retificadora,
+Q11,respondivel,Qual é a multa por entregar a declaração depois do prazo?,2026,multa;atraso,
+Q12,respondivel,Como faço para receber minha restituição?,2026,restituição,
+Q13,respondivel,Como declaro os rendimentos de aluguel que recebo?,2026,aluguel|aluguéis,
+Q14,respondivel,Como funciona o carnê-leão?,2026,carnê-leão,
+Q15,respondivel,Quem tem doença grave tem isenção no imposto de renda?,2026,doença grave|moléstia grave,
+Q16,respondivel,Como declarar os bens de uma pessoa que faleceu?,2026,espólio,
+Q17,respondivel,O que devo fazer ao sair definitivamente do Brasil?,2026,saída definitiva|saída do país,
+Q18,respondivel,Como declarar ganhos com ações e day trade?,2026,renda variável|day trade,
+Q19,respondivel,Contribuição para previdência privada (PGBL) pode ser deduzida?,2026,previdência complementar,
+Q20,respondivel,Como declaro rendimentos recebidos acumuladamente de uma ação judicial?,2026,recebidos acumuladamente|RRA,
+Q21,fora_do_escopo,Qual vai ser a previsão do tempo em São Paulo amanhã?,2026,,Não há resposta na base
+Q22,fora_do_escopo,Qual é a alíquota do ICMS sobre energia elétrica em Minas Gerais?,2026,,Não há resposta na base
+Q23,fora_do_escopo,Como funciona a declaração do imposto de renda nos Estados Unidos (IRS)?,2026,,Não há resposta na base
+Q24,fora_do_escopo,Qual será a tabela progressiva do IRPF em 2035?,2026,,Não há resposta na base
+Q25,fora_do_escopo,Me passe uma receita de bolo de cenoura.,2026,,Não há resposta na base

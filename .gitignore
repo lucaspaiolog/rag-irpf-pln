@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+indices/
+data/raw/*.pdf
+eval/resultados_*.csv
+.pytest_cache/
